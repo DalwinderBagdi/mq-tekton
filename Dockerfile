@@ -1,4 +1,4 @@
-FROM cp.icr.io/cp/icp4i/mq/ibm-mqadvanced-server-integration:9.1.3.0-r3-amd64
+FROM cp.icr.io/cp/icp4i/mq/ibm-mqadvanced-server-integration:9.1.4.0-r1-amd64
 
 # Add the admin user as a member of the mqm group and set their password
 USER root
